@@ -1,4 +1,4 @@
-Hi!  I'm an economist and data scientist based in the Chicago-area, but most of the projects on this Github don't have much to do with that.  It has some statistics projects but it also has a lot of fun programming projects that don't really have much to do with statistics or economics:
+Hi!  I'm an economist and data scientist based in the Chicago-area, but most of the projects on this Github don't have much to do with either.  It has some statistics projects but it also just has a lot of for-fun programming projects:
 
 1. [SLOBIL](https://github.com/flynnzac/slobil).  A programming language I wrote on the bus to work from circa 2018-2019 to present that I made the mistake of actually using so it has gotten seriously out of hand for a hobbyist language.  It has a command-like, TCL-ish syntax with a heavy focus on being easy to use interactively (i.e. from the REPL).  Many "programs" in the language are just collections of operators you can use in the REPL.
 
